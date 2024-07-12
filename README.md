@@ -1,4 +1,4 @@
-![hpplogo](https://github.com/user-attachments/assets/849e9793-e6d9-427b-bd10-93ba77c0291f)
+![Novo Projeto (70)](https://github.com/user-attachments/assets/fc55a376-36a0-4fed-96f1-29684fb5ed67)
 
 # Previsão de Preços de Casas na Índia
 Este repositório contém um projeto de previsão de preços de casas na Índia utilizando redes neurais artificiais. O código está escrito em Python e faz uso de bibliotecas populares de machine learning. O objetivo é analisar diversos atributos que influenciam o preço das casas e construir um modelo preditivo capaz de fornecer estimativas precisas.
